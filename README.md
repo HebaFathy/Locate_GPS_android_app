@@ -2,7 +2,7 @@ The goal is to design an accurate positioning system using smart phone device de
 Using coordinates given by the GPS satellite, a position will be synthesized to present a real-time of the location of the device. 
 Magnitude and latitude is sent via wifi and stored. The same system could be deployed on virtually any type of smart phone device. 
 
-2. Technology and Tools
+Technology and Tools:
 We are going see how to make a very simple Android app to send location of mobile phone and will call a PHP script to perform basic storage operations.
 Technology used:
 	Android
