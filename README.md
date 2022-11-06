@@ -5,15 +5,15 @@ Magnitude and latitude is sent via wifi and stored. The same system could be dep
 Technology and Tools:
 We are going see how to make a very simple Android app to send location of mobile phone and will call a PHP script to perform basic storage operations.
 Technology used:
-	Android
-	PHP
+	Android, 
+	PHP, 
   MySQL
 
 Tools used:
-	Android studio
-	MySQL server
-	Net beans
-	XAMP (PHP server)
+	Android studio, 
+	MySQL server, 
+	Net beans, 
+	XAMP (PHP server), 
 	Samsung kies (Samsung USB drivers)
 
 
